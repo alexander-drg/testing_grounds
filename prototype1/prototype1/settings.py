@@ -74,16 +74,18 @@ WSGI_APPLICATION = 'prototype1.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
+#i changed this one so you should modify it according to your own specifications
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydata',
-        'USER': 'root',
-        'PASSWORD': 'Alex2003#',
-        'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'NAME': 'your_database_name',  # Example: 'ecommerce_db'
+        'USER': 'your_database_username',  # Example: 'admin'
+        'PASSWORD': 'your_database_password',  # Example: 'P@ssw0rd'
+        'HOST': 'your_database_host',  # Example: 'localhost' or '127.0.0.1'
+        'PORT': 'your_database_port',  # Example: '3306'
     }
 }
+
 
 
 # Password validation
