@@ -94,8 +94,15 @@ static/: Static files directory
 media/: Media files directory (uploads, images, etc.)
 
 Contributions: I built the project on my own although i do not own any of the images.
+
+Database aspect(MySQL Workbench):
 ![Capture](https://github.com/alexander-drg/testing_grounds/assets/114608225/54add96e-1528-41d3-86f6-a4d3d16f3dd8)
+
+Main website page (while logged-in):
 ![screencapture-127-0-0-1-8000-2024-04-28-16_23_41](https://github.com/alexander-drg/testing_grounds/assets/114608225/48d0049e-0a85-4314-a237-cd959ed844f9)
 
+Account creation section:
 ![screencapture-127-0-0-1-8000-register-2024-04-28-16_20_13](https://github.com/alexander-drg/testing_grounds/assets/114608225/c0649d5d-0796-4dc0-9453-0eeee2531a2c)
+
+Account credentials (after log-in): 
 ![screencapture-127-0-0-1-8000-signout-2024-04-28-16_24_01](https://github.com/alexander-drg/testing_grounds/assets/114608225/b9abcbf4-553d-4367-a22d-bbc54e91c895)
